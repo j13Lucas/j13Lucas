@@ -6,6 +6,8 @@
 
 ## About
 
+![](https://github.com/j13Lucas/j13Lucas/blob/main/computervision.gif)
+
 Hello! I'm Jerry :wave: , a passionate Computer Vision enthusiast. With a solid foundation in computer science and a keen interest in the realms of machine learning and AI, I am currently deepening my knowledge and skills in the specialized field of Computer Vision.
 
 Although I'm early in my professional journey, I've always been intrigued by the capability of machines to 'see' and 'understand' their surroundings. Recognizing the transformative potential of this technology across various industries, from healthcare to autonomous vehicles, I am dedicated to utilize it’s power to create solutions that can make a real difference in people's lives.
